@@ -1,0 +1,1 @@
+("8.4" ta6le ("3fb390923ee3e8d876231ca89b009dff524ccc9c" . "4807eb2edb69291155f484804ef4b133fcecc702") (collects #"jsonic" #"expander.rkt") (collects #"jsonic" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
