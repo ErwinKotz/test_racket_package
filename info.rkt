@@ -11,4 +11,5 @@
                "br-parser-tools-lib"
                "rackunit-lib"
                "syntax-color-lib"))
-(define build-deps '("scribble-lib"))
+(define build-deps '("racket-doc"
+                     "scribble-lib"))
